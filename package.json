@@ -1,0 +1,16 @@
+{
+  "name": "verrors",
+  "version": "0.1.0",
+  "description": "A few common error classes",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moander/node-verrors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moander/node-verrors/issues"
+  },
+  "homepage": "https://github.com/moander/node-verrors#readme"
+}
